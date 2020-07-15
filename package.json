@@ -1,5 +1,5 @@
 {
-  "name": "hls-to-hex",
+  "name": "@vcostin/hls-to-hex",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,5 @@
     "test": "test"
   },
   "keywords": [],
-  "description": ""
+  "description": "Convert HSL colors to RGB colors in hex format."
 }
